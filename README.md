@@ -1,2 +1,2 @@
-# Duo-Discord-Webhook
-Duo webhook for discord
+# Did-You-Forget-Your-Spanish-Lesson?
+You know what happens now.
