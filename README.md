@@ -1,2 +1,2 @@
-# Did-you-forget-your-Spanish-lesson?
+# Did you forget your Spanish lesson?
 You know what happens now.
